@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "LADY G DONNA",
+  "base_artist": "ジェンティルドンナ (CV. 芹澤 優)",
+  "createdAt": "2026-03-12T02:37:34.218079Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LADY G DONNA",
+      "artist": "Gentildonna (CV: Yu Serizawa)",
+      "has_synced": true,
+      "path": "select/01_LADY_G_DONNA_Gentildonna_(CV__Yu_Serizawa).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LADY G DONNA",
+      "artist": "Gentildonna (CV.Yū Serizawa)",
+      "has_synced": true,
+      "path": "select/02_LADY_G_DONNA_Gentildonna_(CV.Yū_Serizawa).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LADY G DONNA",
+      "artist": "ジェンティルドンナ(芹澤優)",
+      "has_synced": false,
+      "path": "select/pl_01_LADY_G_DONNA_ジェンティルドンナ(芹澤優).txt"
+    }
+  ]
+}
