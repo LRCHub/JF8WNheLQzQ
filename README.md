@@ -1,0 +1,88 @@
+# ジェンティルドンナ (CV. 芹澤 優) – LADY G DONNA
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:13.00] Grab the victory
+[00:14.32] Blowing, Blowing
+[00:17.76] Running, Running
+[00:20.98] Breaking, Breaking
+[00:24.18] Winning, Winning
+[00:26.94] 目の前に誰も映らぬ戦場
+[00:30.24] 敗者に語る言葉は無いでしょう？
+[00:33.43] 情けも甘えも価値はありません
+[00:36.68] 止まるな、止めるな、止まらないわPride
+[00:39.56] Bring it, Bring it on, Bring it, Bring it on, Right now
+[00:41.52] 止まらないMy Pride
+[00:42.70] Bring it, Bring it on, Bring it, Bring it on, Right now
+[00:45.90] 勝か敗か、采配を
+[00:49.03] Bring it, Bring it on, Bring it, Bring it on, Right now
+[00:52.18] 強か弱か、明確に
+[00:55.35] Bring it, Bring it on
+[00:56.52] 冷徹剛毅
+[00:58.53] Higher Higher Higher, Wanna be, Wanna be, No.1(Blowing, Blowing)
+[01:04.86] Higher Higher Higher, Wanna be, Wanna be, No.1
+[01:07.90] 譲れない譲らない(譲れない譲らない)
+[01:11.07] 鍛え抜いて一騎当千
+[01:13.91] Keep it blowing, blowing　犠牲も問わない
+[01:17.33] Running, Running　迷いは振り切れ
+[01:20.53] 強さこそが正義だと証明するわ
+[01:24.04] (Call my name, call my name)
+[01:26.47] I am a winner, winner　力で示せ
+[01:30.04] Breaking, Breaking　慰めはいらない
+[01:33.11] 形振り何ふり構うな、全て賭けろ
+[01:36.43] それが勝者の条件(Grab the victory)
+[01:39.53] Beating, Beating
+[01:42.76] Fighting, Fighting
+[01:45.90] Raiding, Raiding
+[01:49.44] Winning, Winning
+[01:52.19] 怪物と呼ばれるなら上等
+[01:55.41] 綺麗事では勝ち取れないでしょう？
+[01:58.49] 駆け引きなんて柄にもありません
+[02:01.68] 追い抜き、追い越せ、揺るがないわFaith
+[02:04.76] Bring it, Bring it on, Bring it, Bring it on, Right now
+[02:06.76] 揺るがないMy Faith
+[02:07.97] Bring it, Bring it on, Bring it, Bring it on, Right now
+[02:11.15] 伸るか反るか、証明を
+[02:14.29] Bring it, Bring it on, Bring it, Bring it on, Right now
+[02:17.44] 白か黒か、鮮明に
+[02:20.59] Bring it, Bring it on
+[02:21.74] 百戦錬磨
+[02:23.75] Higher Higher Higher, Wanna be, Wanna be, No.1(Blowing, Blowing)
+[02:30.03] Higher Higher Higher, Wanna be, Wanna be, No.1
+[02:33.22] 崩れない崩さない(崩れない崩さない)
+[02:36.41] 磨き抜いて国士無双
+[02:39.25] Keep it beating, beating　鼓動のままに
+[02:42.68] Fighting, Fighting　憂いは抜き去れ
+[02:45.84] 強者こそが大義を成すと信じてるわ
+[02:49.39] (Go my way, go my way)
+[02:51.76] Don't be a loser, loser　頂目指し
+[02:55.32] Raiding, Raiding　躊躇わず前へ
+[02:58.48] 正義を翳して、強く駆けろ
+[03:01.64] それが勝者の条件(Grab the victory)
+[03:04.81] 強さとは、絶対的な勝者の証
+[03:09.38] 必ず勝利し、正義となる
+[03:13.52] 力、それこそが勝者の条件ですのよ
+[03:36.42] 覚悟背負い挑むわ
+[03:39.52] 真の強さ魅せるわ
+[03:42.68] 覚悟背負い挑むわ
+[03:44.31] 真の強さ魅せるわ
+[03:45.86] 重圧も退屈も引き離してWinning run
+[03:49.04] 譲れない譲らない(譲れない譲らない)
+[03:52.18] 鍛え抜いて一騎当千
+[03:56.53] Keep it blowing, blowing　犠牲も問わない
+[04:00.09] Running, Running　迷いは振り切れ
+[04:03.22] 強さこそが正義だと証明するわ
+[04:06.40] (Call my name, call my name)
+[04:09.16] I am a winner, winner　力で示せ
+[04:12.63] Breaking, Breaking　慰めはいらない
+[04:15.87] 何ふり構うな、全て賭けろ
+[04:19.01] それが勝者の条件
+[04:23.85] 正義を翳して、強く駆けろ
+[04:26.95] それが勝者の条件
+[04:28.97] (Grab the victory)
+[04:30.51] Blowing, Blowing
+[04:33.62] Running, Running
+[04:36.73] Breaking, Breaking
+[04:39.87] Winning, Winning
+```
